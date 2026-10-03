@@ -10,7 +10,7 @@ export default function TentangScreen() {
   const router = useRouter();
 
   const fiturList = [
-    { icon: 'book', title: 'Al-Quran 114 Surah', desc: 'Kemenag RI offline', color: '#059669' },
+    { icon: 'book', title: 'Al-Quran 114 Surah', desc: 'Kemenag RI', color: '#059669' },
     { icon: 'hand-left', title: 'Doa Harian', desc: '227 doa EQuran.id', color: '#D97706' },
     { icon: 'trophy', title: 'Hafalan Tracker', desc: 'CRUD + streak', color: '#3B82F6' },
     { icon: 'time', title: 'Jadwal Sholat', desc: 'Aladhan API', color: '#7C3AED' },
@@ -46,7 +46,7 @@ export default function TentangScreen() {
 
               <View style={styles.headerText}>
                 <Text style={styles.headerTitle}>Tentang Aplikasi</Text>
-                <Text style={styles.headerSubtitle}>HafizKu v1.0.0</Text>
+                <Text style={styles.headerSubtitle}>MyQuran v1.0.0</Text>
               </View>
             </LinearGradient>
           </View>

@@ -142,7 +142,7 @@ export default function ProfileScreen() {
 
           {/* FOOTER */}
           <View style={styles.footer}>
-            <Text style={styles.footerText}>HafizKu v1.0.0</Text>
+            <Text style={styles.footerText}>MyQuran v1.0.0</Text>
             <Text style={styles.footerText}>Teman setia hafalanmu 🤲</Text>
           </View>
 
