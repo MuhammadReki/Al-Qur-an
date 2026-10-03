@@ -45,41 +45,35 @@
 
 <div align="center">
 
-### 🌙 Splash Screen
-
-<img src="./screenshots/Splash-Screen.jpeg" width="300" alt="Splash Screen" />
-
-### 🏠 Tampilan Utama
-
 <table>
   <tr>
-    <td align="center"><b>Beranda</b></td>
-    <td align="center"><b>Quran</b></td>
-    <td align="center"><b>Doa</b></td>
+    <td align="center"><b>🌙 Splash Screen</b></td>
+    <td align="center"><b>🏠 Beranda</b></td>
+    <td align="center"><b>📖 Quran</b></td>
+    <td align="center"><b>🤲 Doa</b></td>
   </tr>
   <tr>
-    <td><img src="./screenshots/Beranda.jpeg" width="220" alt="Beranda" /></td>
-    <td><img src="./screenshots/Quran.jpeg" width="220" alt="Quran" /></td>
-    <td><img src="./screenshots/Doa.jpeg" width="220" alt="Doa" /></td>
+    <td><img src="./screenshots/Splash-Screen.jpeg" width="180" alt="Splash Screen" /></td>
+    <td><img src="./screenshots/Beranda.jpeg" width="180" alt="Beranda" /></td>
+    <td><img src="./screenshots/Quran.jpeg" width="180" alt="Quran" /></td>
+    <td><img src="./screenshots/Doa.jpeg" width="180" alt="Doa" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td align="center"><b>Hafalan</b></td>
-    <td align="center"><b>Statistik Tilawah</b></td>
-    <td align="center"><b>Arah Kiblat</b></td>
+    <td align="center"><b>🏆 Hafalan</b></td>
+    <td align="center"><b>📊 Statistik</b></td>
+    <td align="center"><b>🧭 Arah Kiblat</b></td>
+    <td align="center"><b>👤 Profil</b></td>
   </tr>
   <tr>
-    <td><img src="./screenshots/Hafalan.jpeg" width="220" alt="Hafalan" /></td>
-    <td><img src="./screenshots/Statistik-Tilawah.jpeg" width="220" alt="Statistik Tilawah" /></td>
-    <td><img src="./screenshots/ArahKiblat.jpeg" width="220" alt="Arah Kiblat" /></td>
+    <td><img src="./screenshots/Hafalan.jpeg" width="180" alt="Hafalan" /></td>
+    <td><img src="./screenshots/Statistik-Tilawah.jpeg" width="180" alt="Statistik Tilawah" /></td>
+    <td><img src="./screenshots/ArahKiblat.jpeg" width="180" alt="Arah Kiblat" /></td>
+    <td><img src="./screenshots/Profile.jpeg" width="180" alt="Profil" /></td>
   </tr>
 </table>
-
-### 👤 Profil
-
-<img src="./screenshots/Profile.jpeg" width="300" alt="Profil" />
 
 </div>
 
@@ -89,7 +83,7 @@
 
 ### 📱 Untuk Pengguna
 
-1. **Download APK** dari [Releases](https://github.com/MuhammadReki/alquran/releases)
+1. **Download APK** dari [Releases](https://github.com/MuhammadReki/Al-Qur-an/releases)
 2. **Aktifkan** "Install from unknown sources" di HP
 3. **Install APK** → buka app
 4. **Selesai!** 🎉
@@ -98,8 +92,8 @@
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/MuhammadReki/alquran.git
-cd alquran
+git clone https://github.com/MuhammadReki/Al-Qur-an.git
+cd Al-Qur-an
 
 # 2. Install dependencies
 npm install
