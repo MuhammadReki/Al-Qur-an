@@ -24,6 +24,26 @@
 
 ---
 
+## 📲 Download APK
+
+<div align="center">
+
+### 📱 Scan QR Code — Langsung Download
+
+<img src="./screenshots/BarcodeAplikasiMyQur'an.png" width="250" alt="QR Code Download MyQur'an" />
+
+**📲 Scan QR Code di atas pake kamera HP**
+
+**APK langsung ter-download — tinggal install!**
+
+Atau klik link berikut:
+
+🔗 **[Download MyQur'an v1.0.0 (46 MB)](https://github.com/MuhammadReki/Al-Qur-an/releases/download/v1.0.0/MyQuran-v1.0.0.apk)**
+
+</div>
+
+---
+
 ## ✨ Fitur Unggulan
 
 | Fitur | Deskripsi |
